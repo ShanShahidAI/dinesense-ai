@@ -1,0 +1,1 @@
+The included CSV contains 120 original hand-written educational examples (4 aspects x 3 sentiments x 10 examples). It is NOT SemEval, not customer-sourced, and should not be cited as real-world validation. Replace with licensed external labeled restaurant data before final academic submission if your instructor requires it. See README.

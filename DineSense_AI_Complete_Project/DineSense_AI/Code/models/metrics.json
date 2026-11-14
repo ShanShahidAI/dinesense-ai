@@ -1,0 +1,69 @@
+{
+  "selected_model": "Logistic Regression",
+  "dataset_rows": 120,
+  "train_rows": 90,
+  "test_rows": 30,
+  "dataset_file": "sample_reviews.csv",
+  "dataset_type": "original educational demo data",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.4667,
+      "precision_macro": 0.4497,
+      "recall_macro": 0.4667,
+      "f1_macro": 0.4515,
+      "confusion_matrix": [
+        [
+          1,
+          1,
+          8
+        ],
+        [
+          3,
+          7,
+          0
+        ],
+        [
+          3,
+          1,
+          6
+        ]
+      ],
+      "labels": [
+        "negative",
+        "neutral",
+        "positive"
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n    negative       0.14      0.10      0.12        10\n     neutral       0.78      0.70      0.74        10\n    positive       0.43      0.60      0.50        10\n\n    accuracy                           0.47        30\n   macro avg       0.45      0.47      0.45        30\nweighted avg       0.45      0.47      0.45        30\n"
+    },
+    "Naive Bayes": {
+      "accuracy": 0.4667,
+      "precision_macro": 0.4497,
+      "recall_macro": 0.4667,
+      "f1_macro": 0.4515,
+      "confusion_matrix": [
+        [
+          1,
+          1,
+          8
+        ],
+        [
+          3,
+          7,
+          0
+        ],
+        [
+          3,
+          1,
+          6
+        ]
+      ],
+      "labels": [
+        "negative",
+        "neutral",
+        "positive"
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n    negative       0.14      0.10      0.12        10\n     neutral       0.78      0.70      0.74        10\n    positive       0.43      0.60      0.50        10\n\n    accuracy                           0.47        30\n   macro avg       0.45      0.47      0.45        30\nweighted avg       0.45      0.47      0.45        30\n"
+    }
+  },
+  "caution": "Small synthetic demo set; scores are NOT real-world performance. Aspect detection uses rules, not a trained aspect classifier."
+}

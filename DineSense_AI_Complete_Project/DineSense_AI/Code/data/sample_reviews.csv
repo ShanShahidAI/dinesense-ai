@@ -1,0 +1,121 @@
+review,aspect,sentiment,source
+The food quality was great.,food,positive,original_educational_example
+The cashier printed our bill.,price,neutral,original_educational_example
+The music created a lovely mood.,ambience,positive,original_educational_example
+The restaurant plays background music.,ambience,neutral,original_educational_example
+The lighting was pleasant.,ambience,positive,original_educational_example
+The staff were friendly and helpful.,service,positive,original_educational_example
+The decor looked elegant.,ambience,positive,original_educational_example
+The menu has a price section.,price,neutral,original_educational_example
+The seating was very comfortable.,ambience,positive,original_educational_example
+The ambience felt depressing.,ambience,negative,original_educational_example
+The waiter forgot our order.,service,negative,original_educational_example
+The cost was excessive.,price,negative,original_educational_example
+The bill included tax.,price,neutral,original_educational_example
+The service was excellent.,service,positive,original_educational_example
+The soup was too salty.,food,negative,original_educational_example
+The bill was surprisingly cheap.,price,positive,original_educational_example
+We asked for the total price.,price,neutral,original_educational_example
+The place looked spotless.,ambience,positive,original_educational_example
+The staff brought the menu.,service,neutral,original_educational_example
+The price was fair.,price,positive,original_educational_example
+The soup was hot and tasty.,food,positive,original_educational_example
+The meal was good value for money.,price,positive,original_educational_example
+The interior was gorgeous.,ambience,positive,original_educational_example
+The tables were not clean.,ambience,negative,original_educational_example
+The pasta was rich and delicious.,food,positive,original_educational_example
+The meal was fresh and tasty.,food,positive,original_educational_example
+The portions were too small for the price.,price,negative,original_educational_example
+The prices were too expensive.,price,negative,original_educational_example
+We tried their lunch menu.,food,neutral,original_educational_example
+The bill was paid at the counter.,price,neutral,original_educational_example
+We ordered pasta for dinner.,food,neutral,original_educational_example
+We asked for the bill.,service,neutral,original_educational_example
+The waiter was rude.,service,negative,original_educational_example
+A waiter took our order.,service,neutral,original_educational_example
+The discount made dinner affordable.,price,positive,original_educational_example
+We received outstanding service.,service,positive,original_educational_example
+We got excellent value.,price,positive,original_educational_example
+Our order arrived very fast.,service,positive,original_educational_example
+The prices were affordable.,price,positive,original_educational_example
+The team was very responsive.,service,positive,original_educational_example
+The staff changed our table.,service,neutral,original_educational_example
+The waiter showed us a table.,service,neutral,original_educational_example
+The prices were outrageous.,price,negative,original_educational_example
+The restaurant serves chicken dishes.,food,neutral,original_educational_example
+The restaurant offers reasonable prices.,price,positive,original_educational_example
+The menu had budget friendly options.,price,positive,original_educational_example
+The meal included soup and salad.,food,neutral,original_educational_example
+The service was extremely slow.,service,negative,original_educational_example
+The ambience felt welcoming.,ambience,positive,original_educational_example
+The walls are painted blue.,ambience,neutral,original_educational_example
+They offer several desserts.,food,neutral,original_educational_example
+The chef prepared a fantastic meal.,food,positive,original_educational_example
+The restaurant has table service.,service,neutral,original_educational_example
+The atmosphere was beautiful.,ambience,positive,original_educational_example
+The food quality was awful.,food,negative,original_educational_example
+The service was awful.,service,negative,original_educational_example
+The tables are arranged in rows.,ambience,neutral,original_educational_example
+The staff ignored our table.,service,negative,original_educational_example
+I loved the flavorful dishes.,food,positive,original_educational_example
+The lights were too bright.,ambience,negative,original_educational_example
+The food was overpriced.,price,negative,original_educational_example
+The menu was very costly.,price,negative,original_educational_example
+The staff greeted us warmly.,service,positive,original_educational_example
+Nobody answered our requests.,service,negative,original_educational_example
+The service felt professional.,service,positive,original_educational_example
+The food tasted terrible.,food,negative,original_educational_example
+The meal was not worth the money.,price,negative,original_educational_example
+The chicken was dry and tasteless.,food,negative,original_educational_example
+A server collected the plates.,service,neutral,original_educational_example
+The dessert tasted wonderful.,food,positive,original_educational_example
+The team was polite and attentive.,service,positive,original_educational_example
+The team was unhelpful.,service,negative,original_educational_example
+The service was disappointing.,service,negative,original_educational_example
+The burger was undercooked.,food,negative,original_educational_example
+The staff were careless.,service,negative,original_educational_example
+The atmosphere was noisy.,ambience,negative,original_educational_example
+The restaurant has indoor seating.,ambience,neutral,original_educational_example
+There is a waiting area.,ambience,neutral,original_educational_example
+The restaurant was dirty.,ambience,negative,original_educational_example
+The dishes had no flavor.,food,negative,original_educational_example
+The restaurant accepts card payments.,price,neutral,original_educational_example
+Our order took too long.,service,negative,original_educational_example
+The dining area smelled bad.,ambience,negative,original_educational_example
+The menu includes burgers and pizza.,food,neutral,original_educational_example
+The food tastes delicious.,food,positive,original_educational_example
+The entrance is next to the counter.,ambience,neutral,original_educational_example
+The decor looked unpleasant.,ambience,negative,original_educational_example
+We spoke to the manager.,service,neutral,original_educational_example
+The room contains wooden chairs.,ambience,neutral,original_educational_example
+The server brought two glasses.,service,neutral,original_educational_example
+The music was irritating.,ambience,negative,original_educational_example
+We requested a receipt.,price,neutral,original_educational_example
+The receipt listed three items.,price,neutral,original_educational_example
+The dining area was clean and cozy.,ambience,positive,original_educational_example
+The food arrived in two plates.,food,neutral,original_educational_example
+The bill was unreasonably high.,price,negative,original_educational_example
+The seating was uncomfortable.,ambience,negative,original_educational_example
+The bill was disappointing.,price,negative,original_educational_example
+The portions were worth the cost.,price,positive,original_educational_example
+The restaurant sells sandwiches.,food,neutral,original_educational_example
+The menu lists vegetarian food.,food,neutral,original_educational_example
+The room was crowded and loud.,ambience,negative,original_educational_example
+We sat near the window.,ambience,neutral,original_educational_example
+The pizza was cooked perfectly.,food,positive,original_educational_example
+Our order was recorded.,service,neutral,original_educational_example
+The restaurant charged too much.,price,negative,original_educational_example
+The meal was cold and bland.,food,negative,original_educational_example
+The meal cost less than expected.,price,positive,original_educational_example
+The dining area has ten tables.,ambience,neutral,original_educational_example
+We split the bill equally.,price,neutral,original_educational_example
+The pizza tasted stale.,food,negative,original_educational_example
+The hall has ceiling lights.,ambience,neutral,original_educational_example
+The pasta was poorly cooked.,food,negative,original_educational_example
+I ordered rice and chicken.,food,neutral,original_educational_example
+Our waiter served us quickly.,service,positive,original_educational_example
+The waiter handled our request perfectly.,service,positive,original_educational_example
+The restaurant had a relaxing vibe.,ambience,positive,original_educational_example
+The burger was excellent.,food,positive,original_educational_example
+The dessert was disappointing.,food,negative,original_educational_example
+The menu shows prices in rupees.,price,neutral,original_educational_example
